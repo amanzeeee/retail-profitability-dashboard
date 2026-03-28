@@ -1,18 +1,18 @@
 
-# 📊 Retail Profitability Analysis Dashboard
+#  Retail Profitability Analysis Dashboard
 
-## 🚀 Project Overview
+##  Project Overview
 
 This project analyzes sales, profit, and discount patterns to identify why profitability is low in certain categories.
 
-## 📌 Key Insights
+##  Key Insights
 
 * Furniture category has the lowest profit margin
 * Tables & Bookcases are loss-making sub-categories
 * Profit drops sharply after 30% discount
 * Technology category is most profitable
 
-## 📊 Dashboard Features
+##  Dashboard Features
 
 * KPI cards (Sales, Profit, Profit Margin)
 * Category-wise performance
@@ -20,25 +20,25 @@ This project analyzes sales, profit, and discount patterns to identify why profi
 * Loss-making sub-category identification
 * Discount impact analysis
 
-## 🛠 Tools Used
+##  Tools Used
 
 * Power BI
 * SQL
 * Excel
 
-## 📊 SQL Analysis
+##  SQL Analysis
 
 * Identified loss-making products
 * Analyzed discount vs profit relationship
 * Evaluated regional performance
 
-## 📸 Dashboard Preview
 
-(Add your dashboard image here)
+
+
 
 ## 📁 Files Included
 
-* Dashboard (.pbix)
+* Dashboard .png
 * Dataset
 * SQL queries
 
